@@ -1,0 +1,6 @@
+{
+  "name": "SEO Keyword Tool",
+  "description": "Professional SEO keyword modifier generator and blog title ideation suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
